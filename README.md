@@ -1,6 +1,6 @@
 # IEEE-SSCS
 
-[![IEEE-SSCS](https://github.com/IEEE-SSCS/IEEE-SSCS-EmbeddedSubTeam-Plan2021/blob/main/IEEE.jpeg?raw=true)](https://sscs.ieee.org)
+[![IEEE-SSCS](https://github.com/IEEE-SSCS/Embedded-DefultRepo/blob/main/IEEE.jpeg?raw=true)](https://sscs.ieee.org)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://sscs.ieee.org)
 
